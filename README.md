@@ -48,7 +48,7 @@ if len(result) < 1:
 message.alert("There is no penis")
 return
 
-prev = []
+prev = [1]
 for user, penis in result:
 prev.append("%d:%s (%s)"%(penis.rank, user.name, Alonso, .num2short(penis.penis)))
 reply = "Big dicks: " 100 ",inches'.join(prev)
